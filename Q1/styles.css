@@ -1,0 +1,65 @@
+.line {
+    margin-top: -50px;
+    border-left: 3px solid black;
+    height: 400px;
+    position: fixed;
+  }
+  
+  .t1 {
+    font-family: 'Poppins', sans-serif;
+    padding-top: 50px;
+    margin-bottom: 0;
+    padding-left: 100px;
+    font-weight: 500;
+  }
+  
+  .t2 {
+    font-family: 'Poppins', sans-serif;
+    margin-top: 0;
+    padding-left: 100px;
+    color: #5553B7;
+    font-weight: 900;
+  }
+  
+  .btn1 {
+    margin-left: 100px;
+    background-color: #2dd35c;
+    padding: 0 25px 0 25px;
+    border-radius: 30px;
+    color: white;
+    border-color: white;
+    border: none;
+    height: 36px;
+    font-weight: 700;
+  }
+  .btn2 {
+    border-radius: 30px;
+    color: #5553B7;
+    border-color: #5553B7;
+    background-color: white;
+    padding: 0 25px 0 25px;
+    height: 36px;
+    font-weight: 700;
+  }
+  
+  .gb {
+    margin-top: 100px;
+    height: 300px;
+    width: 50%;
+    border: 2px solid #2dd35c;
+    border-top-right-radius: 250px;
+    border-bottom-right-radius: 15px;
+    padding-right: 100px;
+  }
+  
+  .glass {
+    margin-top: -155px;
+    margin-left: 70%;
+    height: 210px;
+    border-top-left-radius: 250px;
+    border-bottom-left-radius: 20px;
+    padding-right: 550px;
+    background-color: #5553b75f;
+    backdrop-filter: blur(2px);
+  }
+  
